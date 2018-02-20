@@ -1,4 +1,4 @@
-# mozaik-ext-switch
+# @tlake/mozaik-ext-switcher
 
 Extension for [Mozaïk](http://mozaik.rocks/) that allows to place *multiple widgets* into same grid cell and *switch periodically* between them. Despite the preview shown below, it does the switch with smooth transition.
 
@@ -9,7 +9,7 @@ Extension for [Mozaïk](http://mozaik.rocks/) that allows to place *multiple wid
 - Install extension in dashboard
 
     ```bash
-    npm install --save mozaik-ext-switch
+    npm install --save @tlake/mozaik-ext-switcher
     ```
 
 - Rebuild dasbboard: `npm run build-assets`

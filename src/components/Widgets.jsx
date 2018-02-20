@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import React, { Component, PropTypes } from 'react';
-import ComponentRegistry from 'mozaik/src/browser/component-registry';
-import Widget from 'mozaik/src/browser/components/Widget.jsx';
+import ComponentRegistry from '@tlake/mozaik/src/browser/component-registry';
+import Widget from '@tlake/mozaik/src/browser/components/Widget.jsx';
 import classNames from 'classnames';
 
 
